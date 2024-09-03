@@ -18,6 +18,11 @@ Feel free to email me for any form of academic cooperation!
 
 todo: add publications.
 
+## 🎖 Competitions and Awards
+- National Scholarship in China (2021)
+- 2022-09: 🏆🏆 Achieved the 1st Award on SereTOD Challenge 2022 track 2, EMNLP 2022!
+
+
 <!--
 **Fu-Dayuan/Fu-Dayuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
