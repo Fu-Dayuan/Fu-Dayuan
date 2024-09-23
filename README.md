@@ -8,7 +8,7 @@ Feel free to email me for any form of academic cooperation!
 
 - 2024-03: 🎉🎉 Two paper have been accepted by NAACL 2024!
 - 2024-02: 🎉🎉 One paper have been accepted by LREC-COLING 2024!
-- 2023-10: 🎉🎉 One paper have been accepted by CIKM 2023!
+- 2023-8: 🎉🎉 One paper have been accepted by CIKM 2023!
 - 2023-02: 🎉🎉 Two paper have been accepted by ICASSP 2023!
 - 2022-10: 🎉🎉 One paper has been accepted at the SereTOD 2022 Workshop, EMNLP 2022!
 - 2022-09: 🏆🏆 Achieved the 1st rank on SereTOD 2022 track 2, EMNLP 2022!
