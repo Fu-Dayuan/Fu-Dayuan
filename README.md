@@ -37,8 +37,6 @@ Feel free to email me for any form of academic cooperation!
 8. CS-Bench: A Comprehensive Benchmark for Large Language Models towards Computer Science Mastery  
    Xiaoshuai Song, Muxi Diao, Guanting Dong, Zhengyang Wang, Yujia Fu, Runqi Qiao, Zhexu Wang, **Dayuan Fu**, Huangxuan Wu, Bin Liang, Weihao Zeng, Yejie Wang, Zhuoma GongQue, Jianing Yu, Qiuna Tan, Weiran Xu  
    In process
-   
-todo: add publications.
 
 ## 🎖 Competitions and Awards
 - National Scholarship in China (2021)
