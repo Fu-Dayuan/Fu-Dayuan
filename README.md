@@ -22,9 +22,9 @@ Feel free to email me for any form of academic cooperation!
 2. How Do Your Code LLMs Perform? Empowering Code Instruction Tuning with High-Quality Data  
    Yejie Wang\*, Keqing He\*, **Dayuan Fu\***, Zhuoma Gongque, Heyang Xu, Yanxu Chen, Zhexu Wang, Yujia Fu, Guanting Dong, Muxi Diao, Jingang Wang, Mengdi Zhang, Xunliang Cai, Weiran Xu  
    EMNLP 2024 Main Conference [paper](https://arxiv.org/abs/2409.03810)
-3. PreAct: Prediction Enhances Agent's Planning Ability
+3. PreAct: Prediction Enhances Agent's Planning Ability  
    **Dayuan Fu**, Jianzhao Huang, Siyuan Lu, Guanting Dong, Yejie Wang, Keqing He, Weiran Xu  
-   In process
+   In process [paper](https://arxiv.org/abs/arXiv:2402.11534)
 4. On Large Language Models' Hallucination with Regard to Known Facts  
    Che Jiang, Biqing Qi, Xiangyu Hong, **Dayuan Fu**, Yang Cheng, Fandong Meng, Mo Yu, Bowen Zhou, Jie Zhou  
    NAACL 2024 Main Conference [paper](https://arxiv.org/abs/2403.20009)
@@ -36,7 +36,7 @@ Feel free to email me for any form of academic cooperation!
    SereTOD 2022 Workshop, EMNLP 2022, the 1st Award on SereTOD Challenge 2022 track 2 [paper](https://arxiv.org/abs/2210.08873)
 8. CS-Bench: A Comprehensive Benchmark for Large Language Models towards Computer Science Mastery  
    Xiaoshuai Song, Muxi Diao, Guanting Dong, Zhengyang Wang, Yujia Fu, Runqi Qiao, Zhexu Wang, **Dayuan Fu**, Huangxuan Wu, Bin Liang, Weihao Zeng, Yejie Wang, Zhuoma GongQue, Jianing Yu, Qiuna Tan, Weiran Xu  
-   In process
+   In process [paper](https://arxiv.org/abs/arXiv:2406.08587)
 
 ## 🎖 Competitions and Awards
 - National Scholarship in China (2021)
