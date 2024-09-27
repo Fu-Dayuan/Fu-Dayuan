@@ -18,7 +18,7 @@ Feel free to email me for any form of academic cooperation!
 
 1. MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior Planning and Decision-Making  
    **Dayuan Fu**, Biqing Qi, Yihuai Gao, Che Jiang, Guanting Dong, Bowen Zhou  
-   EMNLP 2024 Main Conference [paper](waiting)
+   EMNLP 2024 Main Conference [paper](https://arxiv.org/abs/2409.16686)
 2. How Do Your Code LLMs Perform? Empowering Code Instruction Tuning with High-Quality Data  
    Yejie Wang\*, Keqing He\*, **Dayuan Fu\***, Zhuoma Gongque, Heyang Xu, Yanxu Chen, Zhexu Wang, Yujia Fu, Guanting Dong, Muxi Diao, Jingang Wang, Mengdi Zhang, Xunliang Cai, Weiran Xu  
    EMNLP 2024 Main Conference [paper](https://arxiv.org/abs/2409.03810)
