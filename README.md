@@ -2,7 +2,7 @@
 
 I am Dayuan Fu, a graduate student at [PRIS-NLP Group](https://pris-nlp.github.io/en/author/dayuan-fu/) at Beijing University of Posts and Telecommunications (BUPT), supervised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/). I'm also currently visiting [TsinghuaC3I group](https://c3i.ee.tsinghua.edu.cn/author/%E5%82%85%E5%A4%A7%E6%BA%90/). My research interests primarily focus on large language model agents, including both training-based and prompt-based approaches. For prompt-based approaches, I am concentrating on improving memory mechanisms. For training-based approaches, my focus is on agent generalization, such as creating a world model to handle diverse problems. Additionally, I am interested in the self-evolution of agents when tackling hard and large-scale questions, exemplified by projects like DeepSeek-Prover. I have published several papers at prominent NLP conferences, including EMNLP, CIKM, and NAACL.
 
-Feel free to [email](fdy@bupt.edu.cn) me for any form of academic cooperation!
+Feel free to email (fdy@bupt.edu.cn) me for any form of academic cooperation!
 
 ## 🔥 News
 
