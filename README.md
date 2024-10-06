@@ -23,7 +23,7 @@ Feel free to email (fdy@bupt.edu.cn) me for any form of academic cooperation!
    Yejie Wang\*, Keqing He\*, **Dayuan Fu\***, Zhuoma Gongque, Heyang Xu, Yanxu Chen, Zhexu Wang, Yujia Fu, Guanting Dong, Muxi Diao, Jingang Wang, Mengdi Zhang, Xunliang Cai, Weiran Xu  
    EMNLP 2024 Main Conference [paper](https://arxiv.org/abs/2409.03810)
 3. AgentRefine: Enhancing Agent Generalization through Refinement Tuning  
-   Dayuan Fu, Keqing He, Yejie Wang, Wentao Hong, Zhuoma Gongque, Weihao Zeng, Wei Wang, Jingang Wang, Xunliang Cai, Weiran Xu  
+   **Dayuan Fu**, Keqing He, Yejie Wang, Wentao Hong, Zhuoma Gongque, Weihao Zeng, Wei Wang, Jingang Wang, Xunliang Cai, Weiran Xu  
    In process [link](https://openreview.net/forum?id=FDimWzmcWn)
 4. PreAct: Prediction Enhances Agent's Planning Ability  
    **Dayuan Fu**, Jianzhao Huang, Siyuan Lu, Guanting Dong, Yejie Wang, Keqing He, Weiran Xu  
