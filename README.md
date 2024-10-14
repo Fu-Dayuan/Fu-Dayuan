@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-I am Dayuan Fu, a graduate student at [PRIS-NLP Group](https://pris-nlp.github.io/en/author/dayuan-fu/) at Beijing University of Posts and Telecommunications (BUPT), supervised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/). I visited [TsinghuaC3I group](https://c3i.ee.tsinghua.edu.cn/author/%E5%82%85%E5%A4%A7%E6%BA%90/) from 2022.10 to 2024.8. My research interests primarily focus on large language model agents, including both training-based and prompt-based approaches. For prompt-based approaches, I am concentrating on improving memory mechanisms. For training-based approaches, my focus is on agent generalization, such as creating a world model to handle diverse problems. Additionally, I am interested in the self-evolution of agents when tackling hard and large-scale questions, exemplified by projects like DeepSeek-Prover. I have published several papers at prominent NLP conferences, including EMNLP, CIKM, and NAACL.
+I am Dayuan Fu, a graduate student at [PRIS-NLP Group](https://pris-nlp.github.io/en/author/dayuan-fu/) at Beijing University of Posts and Telecommunications (BUPT), supervised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/). I visited [TsinghuaC3I group](https://c3i.ee.tsinghua.edu.cn/author/%E5%82%85%E5%A4%A7%E6%BA%90/) from 2022.10 to 2024.8. My research interests primarily focus on LLM reasoning, planning, and decision-making ability (in Agent), which can make LLM more universal (i.e. AGI). I have published several papers at prominent NLP conferences, including EMNLP, CIKM, and NAACL.
 
-Feel free to email (fdy@bupt.edu.cn) me for any form of academic cooperation!
+
+Feel free to email me (fdy@bupt.edu.cn) for any form of academic cooperation!
 
 ## 🔥 News
 
@@ -16,18 +17,18 @@ Feel free to email (fdy@bupt.edu.cn) me for any form of academic cooperation!
 
 ## 📝 Publications
 
-1. MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior Planning and Decision-Making  
+1. AgentRefine: Enhancing Agent Generalization through Refinement Tuning  
+   **Dayuan Fu**, Keqing He, Yejie Wang, Wentao Hong, Zhuoma Gongque, Weihao Zeng, Wei Wang, Jingang Wang, Xunliang Cai, Weiran Xu  
+   ICLR 2025 Submission [link](https://openreview.net/forum?id=FDimWzmcWn)
+2. MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior Planning and Decision-Making  
    **Dayuan Fu**, Biqing Qi, Yihuai Gao, Che Jiang, Guanting Dong, Bowen Zhou  
    EMNLP 2024 Main Conference [paper](https://arxiv.org/abs/2409.16686)
-2. How Do Your Code LLMs Perform? Empowering Code Instruction Tuning with High-Quality Data  
+3. How Do Your Code LLMs Perform? Empowering Code Instruction Tuning with High-Quality Data  
    Yejie Wang\*, Keqing He\*, **Dayuan Fu\***, Zhuoma Gongque, Heyang Xu, Yanxu Chen, Zhexu Wang, Yujia Fu, Guanting Dong, Muxi Diao, Jingang Wang, Mengdi Zhang, Xunliang Cai, Weiran Xu  
    EMNLP 2024 Main Conference [paper](https://arxiv.org/abs/2409.03810)
-3. AgentRefine: Enhancing Agent Generalization through Refinement Tuning  
-   **Dayuan Fu**, Keqing He, Yejie Wang, Wentao Hong, Zhuoma Gongque, Weihao Zeng, Wei Wang, Jingang Wang, Xunliang Cai, Weiran Xu  
-   In process [link](https://openreview.net/forum?id=FDimWzmcWn)
 4. PreAct: Prediction Enhances Agent's Planning Ability  
    **Dayuan Fu**, Jianzhao Huang, Siyuan Lu, Guanting Dong, Yejie Wang, Keqing He, Weiran Xu  
-   In process [paper](https://arxiv.org/abs/arXiv:2402.11534)
+   Arxiv [paper](https://arxiv.org/abs/arXiv:2402.11534)
 5. On Large Language Models' Hallucination with Regard to Known Facts  
    Che Jiang, Biqing Qi, Xiangyu Hong, **Dayuan Fu**, Yang Cheng, Fandong Meng, Mo Yu, Bowen Zhou, Jie Zhou  
    NAACL 2024 Main Conference [paper](https://arxiv.org/abs/2403.20009)
@@ -39,7 +40,7 @@ Feel free to email (fdy@bupt.edu.cn) me for any form of academic cooperation!
    SereTOD 2022 Workshop, EMNLP 2022, the 1st Award on SereTOD Challenge 2022 track 2 [paper](https://arxiv.org/abs/2210.08873)
 8. CS-Bench: A Comprehensive Benchmark for Large Language Models towards Computer Science Mastery  
    Xiaoshuai Song, Muxi Diao, Guanting Dong, Zhengyang Wang, Yujia Fu, Runqi Qiao, Zhexu Wang, **Dayuan Fu**, Huangxuan Wu, Bin Liang, Weihao Zeng, Yejie Wang, Zhuoma GongQue, Jianing Yu, Qiuna Tan, Weiran Xu  
-   In process [paper](https://arxiv.org/abs/arXiv:2406.08587)
+   Arxiv [paper](https://arxiv.org/abs/arXiv:2406.08587)
 
 ## 🎖 Competitions and Awards
 - National Scholarship in China (2021)
