@@ -21,7 +21,7 @@ Feel free to email me (fdy@bupt.edu.cn) for any form of academic cooperation!
 ## 📝 Publications
 
 1. AgentRefine: Enhancing Agent Generalization through Refinement Tuning  
-   **Dayuan Fu**, Keqing He, Yejie Wang, Wentao Hong, Zhuoma Gongque, Weihao Zeng, Wei Wang, Jingang Wang, Xunliang Cai, Weiran Xu
+   **Dayuan Fu**, Keqing He, Yejie Wang, Wentao Hong, Zhuoma Gongque, Weihao Zeng, Wei Wang, Jingang Wang, Xunliang Cai, Weiran Xu  
    Under Review
    <!--ICLR 2025 Submission [link](https://openreview.net/forum?id=FDimWzmcWn) -->
 3. MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior Planning and Decision-Making  
@@ -32,7 +32,7 @@ Feel free to email me (fdy@bupt.edu.cn) for any form of academic cooperation!
    EMNLP 2024 Main Conference [paper](https://arxiv.org/abs/2409.03810)
 5. PreAct: Prediction Enhances Agent's Planning Ability  
    **Dayuan Fu**, Jianzhao Huang, Siyuan Lu, Guanting Dong, Yejie Wang, Keqing He, Weiran Xu  
-   Arxiv [paper](https://arxiv.org/abs/arXiv:2402.11534)
+   Coling 2025 [paper](https://arxiv.org/abs/arXiv:2402.11534)
 6. On Large Language Models' Hallucination with Regard to Known Facts  
    Che Jiang, Biqing Qi, Xiangyu Hong, **Dayuan Fu**, Yang Cheng, Fandong Meng, Mo Yu, Bowen Zhou, Jie Zhou  
    NAACL 2024 Main Conference [paper](https://arxiv.org/abs/2403.20009)
