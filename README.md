@@ -23,7 +23,7 @@ Feel free to email me (fdy@bupt.edu.cn) for any form of academic cooperation!
 1. AgentRefine: Enhancing Agent Generalization through Refinement Tuning  
    **Dayuan Fu**, Keqing He, Yejie Wang, Wentao Hong, Zhuoma Gongque, Weihao Zeng, Wei Wang, Jingang Wang, Xunliang Cai, Weiran Xu  
    Under Review
-   <!--ICLR 2025 Submission [link](https://openreview.net/forum?id=FDimWzmcWn) -->
+   ICLR 2025 [link](https://arxiv.org/abs/2501.01702)
 3. MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior Planning and Decision-Making  
    **Dayuan Fu**, Biqing Qi, Yihuai Gao, Che Jiang, Guanting Dong, Bowen Zhou  
    EMNLP 2024 Main Conference [paper](https://arxiv.org/abs/2409.16686)
