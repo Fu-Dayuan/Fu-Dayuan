@@ -7,6 +7,7 @@ Feel free to email me (fdy@bupt.edu.cn) for any form of academic cooperation!
 
 ## 🔥 News
 
+- 2025-01: 🎉🎉 Two papers have been accepted by ICLR 2025!
 - 2024-09: 🎉🎉 Two papers have been accepted by EMNLP 2024!
 - 2024-03: 🎉🎉 Two papers have been accepted by NAACL 2024!
 - 2023-08: 🎉🎉 One paper has been accepted by CIKM 2023!
@@ -14,6 +15,7 @@ Feel free to email me (fdy@bupt.edu.cn) for any form of academic cooperation!
 - 2022-09: 🏆🏆 Achieved the 1st rank on SereTOD 2022 track 2, EMNLP 2022!
 
 <!--
+- 2024-1: 🎉🎉 One paper has been accepted by COLING 2025!
 - 2024-02: 🎉🎉 One paper has been accepted by LREC-COLING 2024!
 - 2023-02: 🎉🎉 Two papers have been accepted by ICASSP 2023!
 -->
