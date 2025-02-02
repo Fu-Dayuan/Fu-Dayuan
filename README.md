@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Dayuan Fu, a graduate student at [PRIS-NLP Group](https://pris-nlp.github.io/en/author/dayuan-fu/) at Beijing University of Posts and Telecommunications (BUPT), supervised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/). I visited [TsinghuaC3I group](https://c3i.ee.tsinghua.edu.cn/author/%E5%82%85%E5%A4%A7%E6%BA%90/) from 2022.10 to 2024.8. My research interests primarily focus on LLM reasoning, planning, and decision-making ability (in Agent), which can make LLM more universal (i.e. AGI). I have published several papers at prominent NLP conferences, including EMNLP, CIKM, and NAACL.
+I am Dayuan Fu, a graduate student at [PRIS-NLP Group](https://pris-nlp.github.io/en/author/dayuan-fu/) at Beijing University of Posts and Telecommunications (BUPT), supervised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/). I visited [TsinghuaC3I group](https://c3i.ee.tsinghua.edu.cn/author/%E5%82%85%E5%A4%A7%E6%BA%90/) from 2022.10 to 2024.8. My research interests primarily focus on LLM reasoning, planning, and decision-making ability (in Agent), which can make LLM more universal (i.e. AGI). I have published several papers at prominent NLP conferences, including ICLR, EMNLP, CIKM, and NAACL.
 
 
 Feel free to email me (fdy@bupt.edu.cn) for any form of academic cooperation!
