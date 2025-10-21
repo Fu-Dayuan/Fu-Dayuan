@@ -1,12 +1,13 @@
 ## Hi there 👋
 
-I am Dayuan Fu, a graduate student at [PRIS-NLP Group](https://pris-nlp.github.io/en/author/dayuan-fu/) at Beijing University of Posts and Telecommunications (BUPT), supervised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/). I'm visiting [GAIR](https://plms.ai/people/index.html) now, and I visited [TsinghuaC3I group](https://c3i.ee.tsinghua.edu.cn/author/%E5%82%85%E5%A4%A7%E6%BA%90/) from 2022.10 to 2024.8. My research interests primarily focus on LLM reasoning, planning, and decision-making ability (in Agent), which can make LLM more universal (i.e. AGI). I have published several papers at prominent NLP conferences, including ICLR, EMNLP, CIKM, and NAACL.
+I am Dayuan Fu, a graduate student at [PRIS-NLP Group](https://pris-nlp.github.io/en/author/dayuan-fu/) at Beijing University of Posts and Telecommunications (BUPT), supervised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/). I'm visiting [GAIR](https://plms.ai/people/index.html) now, and I visited [TsinghuaC3I group](https://c3i.ee.tsinghua.edu.cn/author/%E5%82%85%E5%A4%A7%E6%BA%90/) from 2022.10 to 2024.8. My research interests primarily focus on LLM Agents including both Agent training method and context engineering. I believe it's the way to AGI. I have published several papers at prominent NLP conferences, including ICLR, EMNLP, CIKM, and NAACL.
+You can visit my [homepage](https://fu-dayuan.github.io/) for more information!
 
 
 Feel free to email me (fdy@bupt.edu.cn) for any form of academic cooperation!
-
 ## 🔥 News
 
+- 2025-09: 🎉🎉 One paper has been accepted by EMNLP 2025!
 - 2025-01: 🎉🎉 Two papers have been accepted by ICLR 2025!
 - 2024-09: 🎉🎉 Two papers have been accepted by EMNLP 2024!
 - 2024-03: 🎉🎉 Two papers have been accepted by NAACL 2024!
@@ -25,9 +26,12 @@ Feel free to email me (fdy@bupt.edu.cn) for any form of academic cooperation!
 1. AgentRefine: Enhancing Agent Generalization through Refinement Tuning  
    **Dayuan Fu**, Keqing He, Yejie Wang, Wentao Hong, Zhuoma Gongque, Weihao Zeng, Wei Wang, Jingang Wang, Xunliang Cai, Weiran Xu  
    ICLR 2025 [paper](https://arxiv.org/abs/2501.01702)
-3. MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior Planning and Decision-Making  
+2. MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior Planning and Decision-Making  
    **Dayuan Fu**, Biqing Qi, Yihuai Gao, Che Jiang, Guanting Dong, Bowen Zhou  
    EMNLP 2024 Main Conference [paper](https://arxiv.org/abs/2409.16686)
+3. Deepresearcher: Scaling deep research via reinforcement learning in real-world environments  
+   Yuxiang Zheng\*,  **Dayuan Fu\***, Xiangkun Hu, Xiaojie Cai, Lyumanshan Ye, Pengrui Lu, Pengfei Liu  
+   EMNLP 2025 Main Conference [paper](https://arxiv.org/abs/2504.03160)
 4. How Do Your Code LLMs Perform? Empowering Code Instruction Tuning with High-Quality Data  
    Yejie Wang\*, Keqing He\*, **Dayuan Fu\***, Zhuoma Gongque, Heyang Xu, Yanxu Chen, Zhexu Wang, Yujia Fu, Guanting Dong, Muxi Diao, Jingang Wang, Mengdi Zhang, Xunliang Cai, Weiran Xu  
    EMNLP 2024 Main Conference [paper](https://arxiv.org/abs/2409.03810)
