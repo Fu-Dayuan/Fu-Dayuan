@@ -28,7 +28,7 @@ Feel free to email me (fdy@bupt.edu.cn) for any form of academic cooperation!
    **Dayuan Fu**, Keqing He, Yejie Wang, Wentao Hong, Zhuoma Gongque, Weihao Zeng, Wei Wang, Jingang Wang, Xunliang Cai, Weiran Xu  
    ICLR 2025 [paper](https://arxiv.org/abs/2501.01702)
 2. InnovatorBench: Evaluating Agents' Ability to Conduct Innovative LLM Research   
-   Yunze Wu\*, **Dayuan Fu\***, Weiye Si, Zhen Huang, Mohan Jiang, Keyu Li, Shijie Xia, Jie Sun, Tianze Xu, Xiangkun Hu, Pengrui Lu, Xiaojie Cai, Lyumanshan Ye, Wenhong Zhu, Yang Xiao, Pengfei Liu 
+   Yunze Wu\*, **Dayuan Fu\***, Weiye Si, Zhen Huang, Mohan Jiang, Keyu Li, Shijie Xia, Jie Sun, Tianze Xu, Xiangkun Hu, Pengrui Lu, Xiaojie Cai, Lyumanshan Ye, Wenhong Zhu, Yang Xiao, Pengfei Liu   
    ICLR 2026 [paper](https://arxiv.org/pdf/2510.27598) 
 3. MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior Planning and Decision-Making  
    **Dayuan Fu**, Biqing Qi, Yihuai Gao, Che Jiang, Guanting Dong, Bowen Zhou  
