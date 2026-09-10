@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Dayuan Fu, a graduate student at [PRIS-NLP Group](https://pris-nlp.github.io/en/author/dayuan-fu/) at Beijing University of Posts and Telecommunications (BUPT), supervised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/). I'm visiting [GAIR](https://plms.ai/people/index.html) now, and I visited [TsinghuaC3I group](https://c3i.ee.tsinghua.edu.cn/author/%E5%82%85%E5%A4%A7%E6%BA%90/) from 2022.10 to 2024.8.
+I am Dayuan Fu, a PHD student at [GAIR](https://plms.ai/people/index.html) at Shanghai lnnovation Institute (SII) and Shanghai Jiao Tong University (SJTU), supervised by Prof. Pengfei Liu. I have gained my Master degree from [PRIS-NLP Group](https://pris-nlp.github.io/en/author/dayuan-fu/) at Beijing University of Posts and Telecommunications (BUPT), supervised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/). I visited [TsinghuaC3I group](https://c3i.ee.tsinghua.edu.cn/author/%E5%82%85%E5%A4%A7%E6%BA%90/) from 2022.10 to 2024.8.
 My research interests primarily focus on LLM Agents automation including both expanding the range of agent applications via agent itself and using agents to discover new Nobel Prize level laws/rules. I believe combining search with powerful LLM is the way to AGI.
 
 Now, I'm working on the following research topics:
