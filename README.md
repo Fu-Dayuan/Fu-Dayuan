@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-I am Dayuan Fu, a PHD student at [GAIR](https://plms.ai/people/index.html) at Shanghai lnnovation Institute (SII) and Shanghai Jiao Tong University (SJTU), supervised by Prof. Pengfei Liu. I have gained my Master degree from [PRIS-NLP Group](https://pris-nlp.github.io/en/author/dayuan-fu/) at Beijing University of Posts and Telecommunications (BUPT), supervised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/). I visited [TsinghuaC3I group](https://c3i.ee.tsinghua.edu.cn/author/%E5%82%85%E5%A4%A7%E6%BA%90/) from 2022.10 to 2024.8.
-My research interests primarily focus on LLM Agents automation including both expanding the range of agent applications via agent itself and using agents to discover new Nobel Prize level laws/rules. I believe combining search with powerful LLM is the way to AGI.
+I am Dayuan Fu, a PHD student from [GAIR](https://plms.ai/people/index.html) at Shanghai Innovation Institute (SII) and Shanghai Jiao Tong University (SJTU), supervised by Prof. Pengfei Liu. I have gained my master's degree from [PRIS-NLP Group](https://pris-nlp.github.io/en/author/dayuan-fu/) at Beijing University of Posts and Telecommunications (BUPT), supervised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/). I visited [TsinghuaC3I group](https://c3i.ee.tsinghua.edu.cn/author/%E5%82%85%E5%A4%A7%E6%BA%90/) from 2022.10 to 2024.8.
+My research interests primarily focus on LLM Agents automation, including both expanding the range of agent applications via agent itself and using agents to discover new Nobel Prize-level laws/rules. I believe combining search with powerful LLM is the way to AGI.
 
 Now, I'm working on the following research topics:
 
-- **Coding Agent**: Training long horizon coding agents for SWE and research automation.
-- **Evolve with Search Harness**: Developing (tree) search harnesses for novel insight discovery. Including improve the search efficiency and node expand quality.
-- **AI for AI system**: Using AI to speedup AI research and development. 
+- **Coding Agent**: Training long-horizon coding agents for SWE and research automation.
+- **Evolve with Search Harness**: Developing (tree) search harnesses for novel insight discovery. Including improving search efficiency and node expansion quality.
+- **AI for AI system**: Using AI to speed up AI research and development. 
 
  I have published several papers at prominent NLP conferences, including ICLR, ICML, EMNLP, CIKM, and NAACL.
  
@@ -26,7 +26,7 @@ Feel free to email me (fdy@bupt.edu.cn) for any form of academic cooperation!
 - 2024-03: 🎉🎉 Two papers have been accepted by NAACL 2024!
 - 2023-08: 🎉🎉 One paper has been accepted by CIKM 2023!
 - 2022-10: 🎉🎉 One paper has been accepted at the SereTOD 2022 Workshop, EMNLP 2022!
-- 2022-09: 🏆🏆 Achieved the 1st rank on SereTOD 2022 track 2, EMNLP 2022!
+- 2022-09: 🏆🏆 Achieved 1st rank on the SereTOD 2022 track 2, EMNLP 2022!
 - 2024-1: 🎉🎉 One paper has been accepted by COLING 2025!
 - 2024-02: 🎉🎉 One paper has been accepted by LREC-COLING 2024!
 - 2023-02: 🎉🎉 Two papers have been accepted by ICASSP 2023!
